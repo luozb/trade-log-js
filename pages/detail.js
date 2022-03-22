@@ -158,6 +158,7 @@ export default function Detail() {
 
   if (!data.result) return <Layout>No Rows</Layout>;
 
+
   return (
     <Layout>
       <BodyDiv>
